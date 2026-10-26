@@ -1,0 +1,27 @@
+
+[
+    {
+        "url": "https://github.com/frappe/erpnext.git",
+        "branch": "version-15"
+    },
+    {
+        "url": "https://github.com/frappe/hrms.git",
+        "branch": "version-15"
+    },
+    {
+        "url": "https://github.com/shridarpatil/frappe_whatsapp.git",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/frappe/print_designer.git",
+        "branch": "develop"
+    },
+    {
+        "url": "git@github.com:muhammed-moazzam/rohaan_custom.git",
+        "branch": "main"
+    },
+    {
+        "url": "git@github.com:muhammed-moazzam/agrica_erp_custom_app.git",
+        "branch": "master"
+    }
+]
